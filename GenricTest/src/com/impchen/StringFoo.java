@@ -29,4 +29,12 @@ public class StringFoo<T extends Collection> {
         this.x = x;
     }
 
+
+
+
+
+
+
+
+
 }
